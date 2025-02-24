@@ -1,17 +1,23 @@
 # Project Roadmap
 
 ## Version 0.1.0 (MVP) - Week 1
-- [ ] Project setup and configuration
+- [x] Project setup and configuration
   - [x] Documentation structure
-  - [ ] TypeScript setup
-  - [ ] Testing framework
+  - [x] TypeScript setup
+  - [x] Testing framework setup
   - [ ] CI/CD pipeline
+  - [x] Git repository setup with SSH
+  - [x] Project constitution in RULEBOOK.md
 
 - [ ] Core Portfolio Features
-  - [ ] Asset addition/removal
+  - [x] Portfolio Context implementation
+  - [x] Encrypted storage setup
+  - [ ] Asset addition/removal UI
   - [ ] Basic price updates
-  - [ ] Local storage implementation
-  - [ ] Basic UI components
+  - [ ] Test implementation (Current Focus)
+    - [ ] Portfolio Context tests
+    - [ ] Storage operation tests
+    - [ ] Component tests
 
 ## Version 0.2.0 - Week 2
 - [ ] Authentication System
