@@ -9,6 +9,8 @@
 - [x] Created core project directories
 - [x] Implemented PortfolioContext with tests
 - [x] Set up encrypted storage
+- [x] Created HISTORY.md for chat tracking
+- [x] Connected to GitHub repository (https://github.com/MXAYMxF/misam-crypto)
 
 ### Decisions Made
 - Selected Expo for easier development and testing
