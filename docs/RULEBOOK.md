@@ -10,6 +10,7 @@ Documentation is not an afterthought - it is a crucial part of our development p
    - Every conversation is archived
    - Every issue is tracked
    - Every test is planned before implementation
+   - Every code is commented as part of in-code documentation and well organized in terms of input/output expectations 
 
 2. **Knowledge Management**
    - HISTORY.md captures our journey and decisions
