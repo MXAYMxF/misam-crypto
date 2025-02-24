@@ -21,7 +21,7 @@ Documentation is not an afterthought - it is a crucial part of our development p
    - REQUIREMENTS.md defines our goals
 
 3. **Maturity Indicators**
-   - Documentation completeness
+   - Documentation completeness and instant updates
    - Test coverage metrics
    - Issue resolution patterns
    - Development process adherence
@@ -39,8 +39,25 @@ Documentation is not an afterthought - it is a crucial part of our development p
 ## Session Workflow
 1. **Begin Every Session**
    - Review JOURNAL.md last entry
+   - Review HISTORY.MD to understand previous context
+   - Review ROADMAP.md for current progress
    - Update ROADMAP.md before new features
    - Create feature branch following naming convention
+
+2. **During Session**
+   - Update HISTORY.MD after EACH significant conversation
+   - Record:
+     - User questions and concerns
+     - Important decisions made
+     - Solutions proposed and implemented
+     - Changes in project direction
+     - Learning moments and insights
+   - Commit history updates with [HISTORY] tag
+   - This helps combat:
+     - Long conversation loss
+     - AI forgetfulness
+     - Context fragmentation
+     - Overconfidence in memory
 
 2. **Branch Management**
    ```bash
